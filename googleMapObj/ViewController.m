@@ -17,6 +17,8 @@
 
 @implementation ViewController
 
+#pragma mark - Property
+
 GMSMapView *googlemap;
 SearchResultController *search;
 GMSAutocompleteFetcher *gmsFetch;
